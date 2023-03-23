@@ -1,0 +1,16 @@
+body {
+    background-color: #FFC93C;
+}
+
+form {
+    font-family: 'League Spartan', sans-serif;
+    background-color: white;
+}
+
+.form-control {
+    background-color: rgb(206, 206, 206);
+}
+
+button {
+    text-align: center;
+}
